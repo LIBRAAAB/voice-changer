@@ -13,7 +13,7 @@
   - some bugfixs:
     - RVC: crepe fail to estimate f0
     - RVC: fallback from half-precision when half-precision failed.
-    - etc
+    - etc 
 
 - v.1.5.3.9
 
